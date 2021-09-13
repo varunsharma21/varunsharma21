@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React and practicing Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate for learning and for making new projects.
 - 📫 Let's connect on [linkedIn](https://www.linkedin.com/in/varun-sharma-9728591a0/), [twitter](https://twitter.com/Varun_Sharma21).
+- Open to opportunities.
 
 <!---
 varunsharma21/varunsharma21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
