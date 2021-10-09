@@ -17,7 +17,10 @@
 
 
 <h2> Coding platforms</h2>
-<a href="https://www.hackerrank.com/varun_sharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanak ." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varun-sharma/" target="blank"><img align="center" src="https://leetcode.card.workers.dev/?username=varun-sharma&style=default&font=Courier%20New&extension=null" width="500px" height="400px" /></a>
+
+<a href="https://www.hackerrank.com/varun_sharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50" /></a>
+<a href="https://codeforces.com/profile/varun21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" width="50" /></a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="40"> </h2>
 <a href = 'https://www.linkedin.com/in/varun-sharma-9728591a0/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
