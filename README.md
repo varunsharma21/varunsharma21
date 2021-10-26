@@ -1,5 +1,5 @@
  # 👋 Hey, I’m [Varun!](https://varunsharma21.github.io/portfolio/)
- A third year student at Guru Gobind Singh Indraprastha University.
+ Junior at Guru Gobind Singh Indraprastha University.
 - 👀 I’m interested in ***Full stack Web Dev***.
 - 🌱 I’m currently learning ***React*** and practicing ***Data Structures and Algorithms***.
 - 💞️ I’m looking to collaborate for learning and for making new projects.
