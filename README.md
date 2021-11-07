@@ -17,6 +17,7 @@
 
 
 <h2> Coding platforms</h2>
+<a href="https://leetcode.com/varun-sharma" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="150" /></a> &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/varun_sharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" /></a> &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/varun21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" width="60" /></a>
 
