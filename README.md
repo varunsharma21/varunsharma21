@@ -12,6 +12,8 @@
 <a href= https://github.com/varunsharma21?sort=&tab=repositories > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=css&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=html&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> 
+<a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a> 
 <a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> 
 <a href= https://github.com/varunsharma21?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 
