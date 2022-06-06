@@ -1,4 +1,4 @@
- # 👋 Hey, I’m [Varun!](https://varunsharma21.github.io/portfolio/)
+ # 👋 Hey, I’m [Varun!](https://github.com/varunsharma21)
  Junior at Guru Gobind Singh Indraprastha University.
 - 👀 I’m a ***Full stack Web Dev***.
 - 🌱 I’m currently learning ***React*** and practicing ***Data Structures and Algorithms***.
