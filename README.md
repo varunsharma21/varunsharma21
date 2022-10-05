@@ -1,5 +1,5 @@
  # 👋 Hey, I’m [Varun!](https://github.com/varunsharma21)
- Junior at Guru Gobind Singh Indraprastha University.
+ Senior at Guru Gobind Singh Indraprastha University.
 - 👀 I’m a ***Full stack Web Dev***.
 - 🌱 I’m currently learning ***React*** and practicing ***Data Structures and Algorithms***.
 - 💞️ I’m looking to collaborate for learning and for making new projects.
