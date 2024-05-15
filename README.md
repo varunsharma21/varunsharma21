@@ -1,11 +1,8 @@
- # 👋 Hey, I’m [Varun!](https://github.com/varunsharma21)
- Senior at Guru Gobind Singh Indraprastha University.
-- 👀 I’m a ***Full stack Web Dev***.
-- 🌱 I’m currently learning ***React*** and practicing ***Data Structures and Algorithms***.
-- 💞️ I’m looking to collaborate for learning and for making new projects.
-- 📫 Let's connect on [linkedIn](https://www.linkedin.com/in/varun-sharma-9728591a0/), [twitter](https://twitter.com/Varun_Sharma21).
+ # 👋 Hey, I’m Varun
+- 👀 I’m a ***Software Developer***.
+- 🌱 Learning to do it all—***full stack***.
+- 💞️ Would love to collaborate for learning or freelancing. 
 - Open to opportunities.
-- 
  
 <h2> Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> </h2>
 
